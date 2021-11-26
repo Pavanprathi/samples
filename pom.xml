@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
   
   <groupId>org.openjfx</groupId>
-  <artifactId>samples</artifactId>
-  <packaging>pom</packaging>
+  <artifactId>PavanDevops</artifactId>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   
   <name>samples</name>
